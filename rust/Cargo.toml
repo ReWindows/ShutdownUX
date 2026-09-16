@@ -1,0 +1,8 @@
+[package]
+name = "shutdownux-sys"
+version = "0.1.0"
+edition = "2021"
+description = "Windissect-generated Rust FFI bindings for ShutdownUX.dll. Windows only."
+license = "MIT"
+
+[dependencies]
